@@ -12,4 +12,3 @@ Um projeto focado em aprendizado de HTML e CSS.
 ### 📱 Tecnologias-utilizadas
  - CSS
  - HTML
- 
