@@ -6,7 +6,7 @@ html, body {
     margin: 0;
     flex-direction: column;
     background: linear-gradient(to bottom, #B5E3F0, #8FD1E3, #E5F2F8);
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .barra-grid {
